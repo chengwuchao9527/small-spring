@@ -2,6 +2,7 @@ package com.cheng.factory.support;
 
 import com.cheng.factory.config.SingletenBeanRegistry;
 
+import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
